@@ -1,0 +1,34 @@
+Custom License
+
+This project is provided solely for educational and analytical purposes.
+You are free to:
+- Use this code to study and understand how it works.
+- Use it in teaching or classroom environments.
+
+You are NOT allowed to:
+- Use this project for personal use outside of education.
+- Use it for commercial or production purposes.
+- Distribute modified or original versions for any non-educational purpose.
+
+Educational Use License
+
+Permission is hereby granted, free of charge, to any person or organization to use this project solely for **educational purposes**, including:
+
+- Studying and analyzing the code to understand how it works.
+- Using it in classrooms, workshops, tutorials, or other teaching environments.
+
+However, the following uses are strictly **prohibited**:
+
+- Personal use outside of an educational or analytical context.
+- Commercial use of any kind, including incorporating this code into products or services for profit.
+- Modifying, redistributing, or republishing this code, whether original or altered, for non-educational purposes.
+
+This software is provided "as is", without warranty of any kind, express or implied.
+
+For any other uses, explicit written permission from the author is required.
+
+
+
+Copyright (c) [MUGENGANA KELLY DICKSON] [2025]
+
+
